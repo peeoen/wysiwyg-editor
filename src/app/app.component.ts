@@ -30,7 +30,7 @@ export class AppComponent {
       'insertHR', 'specialCharacters', 'insertTable', 'insertImage', 'insertFile', '|',
       'undo', 'redo', 'help'
     ],
-    enableScript: false,
+    // enableScript: false,
     placeholderText: 'คุณกำลังคิดอะไรอยู่...',
     events: {
     },
